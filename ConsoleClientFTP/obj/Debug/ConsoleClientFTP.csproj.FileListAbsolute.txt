@@ -1,0 +1,13 @@
+Z:\S2\IHM\PROJET IHM\ConsoleClientFTP\ConsoleClientFTP\bin\Debug\ConsoleClientFTP.exe.config
+Z:\S2\Réseaux\TP5\ConsoleClientFTP\ConsoleClientFTP\bin\Debug\ConsoleClientFTP.exe.config
+Z:\S2\Réseaux\TP5\ConsoleClientFTP\ConsoleClientFTP\bin\Debug\ConsoleClientFTP.exe
+Z:\S2\Réseaux\TP5\ConsoleClientFTP\ConsoleClientFTP\bin\Debug\ConsoleClientFTP.pdb
+Z:\S2\Réseaux\TP5\ConsoleClientFTP\ConsoleClientFTP\obj\Debug\ConsoleClientFTP.csprojResolveAssemblyReference.cache
+Z:\S2\Réseaux\TP5\ConsoleClientFTP\ConsoleClientFTP\obj\Debug\ConsoleClientFTP.exe
+Z:\S2\Réseaux\TP5\ConsoleClientFTP\ConsoleClientFTP\obj\Debug\ConsoleClientFTP.pdb
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\Réseaux\TP5\ConsoleClientFTP\ConsoleClientFTP\bin\Debug\ConsoleClientFTP.exe.config
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\Réseaux\TP5\ConsoleClientFTP\ConsoleClientFTP\obj\Debug\ConsoleClientFTP.exe
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\Réseaux\TP5\ConsoleClientFTP\ConsoleClientFTP\obj\Debug\ConsoleClientFTP.pdb
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\Réseaux\TP5\ConsoleClientFTP\ConsoleClientFTP\bin\Debug\ConsoleClientFTP.exe
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\Réseaux\TP5\ConsoleClientFTP\ConsoleClientFTP\bin\Debug\ConsoleClientFTP.pdb
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\Réseaux\TP5\ConsoleClientFTP\ConsoleClientFTP\obj\Debug\ConsoleClientFTP.csprojResolveAssemblyReference.cache
